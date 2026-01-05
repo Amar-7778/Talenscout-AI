@@ -131,7 +131,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- 3. DATABASE ---
-db_pass = quote_plus("Fahi@16") # <--- UPDATE PASSWORD HERE
+db_pass = quote_plus("Your Password") # <--- UPDATE PASSWORD HERE
 engine = sqlalchemy.create_engine(f"mysql+pymysql://root:{db_pass}@localhost/resume_matcher_db")
 
 # --- 4. MODELS & HELPER FUNCTIONS ---
