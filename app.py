@@ -13,7 +13,7 @@ from collections import Counter
 
 # --- 1. CONFIGURATION ---
 st.set_page_config(
-    page_title="Talenscout AI",
+    page_title="Talentscout AI",
     page_icon="🚀",
     layout="wide",
     initial_sidebar_state="expanded"
