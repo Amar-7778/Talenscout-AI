@@ -10,7 +10,7 @@ UPLOAD_FOLDER = "resume_uploads"
 PROCESSED_FOLDER = "processed_resumes"
 
 # DB Connection
-db_pass = quote_plus("Fahi@16") # <--- UPDATE PASSWORD
+db_pass = quote_plus("Your password") # <--- UPDATE PASSWORD
 # ensure we use pymysql
 engine = sqlalchemy.create_engine(f"mysql+pymysql://root:{db_pass}@localhost/resume_matcher_db")
 
