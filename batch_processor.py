@@ -38,7 +38,7 @@ class UniversalFeatureEngineer:
 
 # --- 2. CONFIGURATION ---
 db_user = "root"
-db_password = "Fahi@16"  # <--- REPLACE WITH YOUR REAL PASSWORD
+db_password = "Your password"  # <--- REPLACE WITH YOUR REAL PASSWORD
 db_host = "localhost"
 db_name = "resume_matcher_db"
 
