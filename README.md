@@ -1,6 +1,5 @@
 # Talentscout-AI
 
-Repository ID: 1128136357
 
 Talentscout-AI is an opinionated starter for building AI-powered tools to discover, evaluate, and recommend talent (resumes, profiles, portfolios). This README is a living document — update the sections marked TODO to reflect the project's actual implementation and commands.
 
